@@ -1,0 +1,11 @@
+jQuery Plugins by Jeff Larkin <jeff.larkin@gmail.com>
+
+1)  Help Bubbles
+    Adds help bubbles on hover using the data-help attribute of the element.
+2)  Footnotes
+    Numbers footnotes by internal links to an ordered list of footnotes.  Also
+    has a bubble on hover with the text of the footnote.
+
+License
+  You are free to use this software, but it's provided as-is.  Use it, copy it,
+fork it, modify it, just don't blame me if it breaks.
